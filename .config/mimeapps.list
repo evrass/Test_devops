@@ -1,0 +1,7 @@
+
+[Default Applications]
+text/html=chromium_chromium.desktop
+x-scheme-handler/http=chromium_chromium.desktop
+x-scheme-handler/https=chromium_chromium.desktop
+x-scheme-handler/about=chromium_chromium.desktop
+x-scheme-handler/unknown=chromium_chromium.desktop

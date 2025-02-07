@@ -1,0 +1,38 @@
+2025-02-07 03:28:22.620 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-07 03:28:22.725 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-07 03:28:22.726 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-07 03:28:22.728 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-07 03:28:23.167 [warning] Creation of workbench contribution 'workbench.chat.setup' took 36ms.
+2025-02-07 03:28:26.455 [info] Started local extension host with pid 14897.
+2025-02-07 03:28:44.759 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-07 03:28:55.064 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 263ms.
+2025-02-07 03:28:55.650 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 161ms.
+2025-02-07 03:28:57.850 [info] [perf] Render performance baseline is 446ms
+2025-02-07 03:29:33.821 [info] Extension host (LocalProcess pid: 14897) is unresponsive.
+2025-02-07 03:29:36.151 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-07 03:29:56.452 [info] Extension host (LocalProcess pid: 14897) is responsive.
+2025-02-07 03:29:59.704 [info] Extension host (LocalProcess pid: 14897) is unresponsive.
+2025-02-07 03:30:01.647 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-07 03:30:18.140 [info] Extension host (LocalProcess pid: 14897) is responsive.
+2025-02-07 03:31:04.340 [info] Extension host (LocalProcess pid: 14897) is unresponsive.
+2025-02-07 03:31:06.457 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-07 03:31:08.106 [info] Extension host (LocalProcess pid: 14897) is responsive.
+2025-02-07 03:31:08.106 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-02-07 03:31:10.065 [warning] UNRESPONSIVE extension host: 'ms-python.python' took 66.92322303204803% of 1155.661ms, saved PROFILE here: 'file:///tmp/exthost-8a5e05.cpuprofile'
+2025-02-07 03:31:22.541 [info] Extension host (LocalProcess pid: 14897) is unresponsive.
+2025-02-07 03:31:31.121 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-07 03:31:39.857 [info] Extension host (LocalProcess pid: 14897) is responsive.
+2025-02-07 03:32:44.011 [info] Extension host (LocalProcess pid: 14897) is unresponsive.
+2025-02-07 03:32:44.352 [info] Extension host (LocalProcess pid: 14897) is responsive.
+2025-02-07 03:32:44.355 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-02-07 03:32:46.952 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-07 03:37:41.930 [info] Extension host (LocalProcess pid: 14897) is unresponsive.
+2025-02-07 03:37:43.371 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-07 03:37:48.927 [warning] UNRESPONSIVE extension host: 'vscode.git' took 33.772027285539195% of 1709.795ms, saved PROFILE here: 'file:///tmp/exthost-f562d5.cpuprofile'
+2025-02-07 03:38:00.449 [info] Extension host (LocalProcess pid: 14897) is responsive.
+2025-02-07 03:38:04.416 [info] Extension host (LocalProcess pid: 14897) is unresponsive.
+2025-02-07 03:38:05.007 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-07 03:38:18.162 [info] Extension host (LocalProcess pid: 14897) is responsive.
+2025-02-07 03:38:21.331 [info] Extension host (LocalProcess pid: 14897) is unresponsive.
+2025-02-07 03:38:22.108 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-07 03:38:27.627 [warning] UNRESPONSIVE extension host: 'vscode.git' took 40.63633208217942% of 2038.279ms, saved PROFILE here: 'file:///tmp/exthost-e35b32.cpuprofile'
