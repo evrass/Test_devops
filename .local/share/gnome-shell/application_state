@@ -3,10 +3,10 @@
   <context id="">
     <application id="snap-store_ubuntu-software.desktop" score="0" last-seen="1738886366"/>
     <application id="org.gnome.Nautilus.desktop" score="19" last-seen="1738898850"/>
-    <application id="chromium_chromium.desktop" score="539" last-seen="1738899152"/>
-    <application id="org.gnome.Terminal.desktop" score="469" last-seen="1738899154"/>
+    <application id="chromium_chromium.desktop" score="550" last-seen="1738899491"/>
+    <application id="org.gnome.Terminal.desktop" score="469" last-seen="1738899310"/>
     <application id="org.gnome.gedit.desktop" score="0" last-seen="1738896373"/>
     <application id="update-manager.desktop" score="80" last-seen="1738689430"/>
-    <application id="code.desktop" score="28" last-seen="1738899135"/>
+    <application id="code.desktop" score="62" last-seen="1738899460"/>
   </context>
 </application-state>

@@ -36,3 +36,7 @@
 2025-02-07 03:38:21.331 [info] Extension host (LocalProcess pid: 14897) is unresponsive.
 2025-02-07 03:38:22.108 [info] UNRESPONSIVE extension host: starting to profile NOW
 2025-02-07 03:38:27.627 [warning] UNRESPONSIVE extension host: 'vscode.git' took 40.63633208217942% of 2038.279ms, saved PROFILE here: 'file:///tmp/exthost-e35b32.cpuprofile'
+2025-02-07 03:38:38.115 [info] Extension host (LocalProcess pid: 14897) is responsive.
+2025-02-07 03:38:45.435 [info] Extension host (LocalProcess pid: 14897) is unresponsive.
+2025-02-07 03:38:50.224 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-02-07 03:39:29.956 [info] Extension host (LocalProcess pid: 14897) is responsive.
